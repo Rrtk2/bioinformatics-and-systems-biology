@@ -18,6 +18,7 @@ This format is yet to be defined.
 #### How to get started with contributing
 [Script format](./Script-essentials/Script-format.md)
 
+## Other information
 #### License and contributing guidelines
 [License](/LICENSE.md) 
 
