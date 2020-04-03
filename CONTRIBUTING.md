@@ -11,7 +11,7 @@ This document answers the following questions:
 
 
 #### What sort of contributions am I looking for
-As this is a personal assignment, the development needs to be performed by me (Rrtk2). Therefore, the community can contribute by informing me *how* I can improve in development of this, or future projects.
+the best ones (this is a placeholder @RRR)
 
 #### How to suggest updates or new features
 Improvements can be shared via use of the issues tab.
@@ -25,7 +25,7 @@ When creating an issue:
 - Please describe the issue clearly
 
 #### The ultimate goal, vision, or roadmap for the project
-The ultimate goal for this project is to create a standalone repository which contains all information to start, use and perform the task for a new user.
+the best goal (this is a placeholder @RRR)
 
 #### How to contact those in charge of the project
 To contact me, please send an email to ra.reijnders@student.maastrichtuniversity.nl.
