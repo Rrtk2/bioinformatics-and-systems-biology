@@ -8,4 +8,8 @@ Scripts should at least, but not limited by, contain the following items:
 - [OUTPUT](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/Script-essentials/OUTPUT.R) 
 - [REMOVE TEMP_ FILES/VARIABLES](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/Script-essentials/REMOVE%20TEMP_VARS.R) 
 
+## Example
+- [Script](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/Script-essentials/EXAMPLE-SCRIPT-1.R) 
+
+
 ## Definitions

@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------------------------------#
-# 										GENERAL INFORMATION
+# 							GENERAL INFORMATION
 #-----------------------------------------------------------------------------------------------------#
 #	File description:
 #		Name
@@ -45,9 +45,10 @@
 #		(4) Final; No planned changes, ESSENTIAL BUGFIXES ONLY.
 #
 #		"Completion"
-#		Essential things that the script SHOULD have; for every item that is COMPLETED, "Completion" gets a point. Max 7 points.
+#		Essential things that the script SHOULD have; for every item that is COMPLETED, "Completion" gets a point. Max 8 points.
 #		[x] GENERAL INFORMATION - (meta) information is complete and clear
 #		[x] CHECKS - Script checks if items sucessfully do what they should do, and alerts user if certain objects/variables misbehave.
+#		[x] SETTINGS - general settings used in script
 #		[x] (INSTALL &) LOAD PACKAGES - Install packages if needed, then load all required
 #		[x] INPUT - imports data / define the object that is going to be modified
 #		[ ] MAIN - The main algorithm that will be used. This can be separated into several sub-sections ofcourse. The collection will be MAIN.
@@ -57,5 +58,5 @@
 #	Script METRICS:
 #		Health = 3
 #		Status = 2
-#		Completion = 4
+#		Completion = 5
 #
