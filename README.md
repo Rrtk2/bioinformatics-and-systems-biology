@@ -23,6 +23,9 @@ This format is yet to be defined.
 #### How to get started with contributing
 [Script format](./Script-essentials/Script-format.md)
 
+#### Repo infrastructure
+ [ ![Roottree](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/Images/Flowcharts/Roottree.png)](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/Images/Flowcharts/Roottree.png)
+ 
 ## Other information
 #### License and contributing guidelines
 [License](/LICENSE.md) 
