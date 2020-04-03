@@ -13,11 +13,13 @@ This is the folder to contribute bioinformatics related scripts and documentatio
 This project is starting, big contributions are to be made using a defined format to increase quality and save time.
 This format is yet to be defined.
 
-- [ ] Define (raw) format to contribute scripts
+- [x] Define (raw) format to contribute scripts
+- [ ] Define (specific) format to contribute scripts
+- [ ] Define (raw) indexing method for scripts
 
 
 #### How to get started with contributing
-TBA
+[Script format](./Script-essentials/Script-format.md)
 
 
 ## Contact and legal information
