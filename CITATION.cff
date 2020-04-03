@@ -1,0 +1,9 @@
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Reijnders
+    given-names: Rick
+    orcid: https://orcid.org/0000-0001-7599-0385
+title: My demo repository
+version: 1.0.0
+date-released: 2019-09-04
