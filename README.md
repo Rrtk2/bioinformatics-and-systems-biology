@@ -9,8 +9,6 @@ It contains usefull information how to share, contribute and use the project.
 This is the folder to contribute bioinformatics related scripts and documentation to speed up progress in coding and research.
 
 ## Project structure
-...
-
 #### Status of project
 This project is starting, big contributions are to be made using a defined format to increase quality and save time.
 This format is yet to be defined.
@@ -23,7 +21,6 @@ TBA
 
 
 ## Contact and legal information
-
 #### Contact
 ra.reijnders@student.maastrichtuniversity.nl
 
