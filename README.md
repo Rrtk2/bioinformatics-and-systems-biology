@@ -25,12 +25,6 @@ This format is yet to be defined.
 
 [code of conduct](/CODE_OF_CONDUCT.md) 
 
-#### Citation
-Feel free to [cite.](/CITATION.cff) 
-
-#### FAQ
-(empty)
-
 #### Who is involved, and what are their roles.
 - RRtK2 (owner and contributor)
 
@@ -39,6 +33,7 @@ ra.reijnders@student.maastrichtuniversity.nl
 
 #### Copyright and authors
 All code and documents in the MSB_Thesis folder was created by [these author(s)](/AUTHORS.md).
+[Feel free to cite!](/CITATION.cff) 
 
 This program is a collection of scripts, documentation and supplementary information which involves the analysis of (multi)omics data.
 Copyright (C) 2020  Rick Reijnders
