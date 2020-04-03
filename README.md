@@ -1,6 +1,8 @@
 # Bioinformatics-and-Systems-Biology (BSB)
 ![](https://img.shields.io/badge/Status-Setting_up-red?style=flat-square)
-[![GitHub License](https://img.shields.io/github/license/Rrtk2/bioinformatics-and-systems-biology)](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/LICENSE.md) [![GitHub Watches](https://img.shields.io/github/watchers/Rrtk2/bioinformatics-and-systems-biology.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/Rrtk2/bioinformatics-and-systems-biology/watchers)
+[![GitHub License](https://img.shields.io/github/license/Rrtk2/bioinformatics-and-systems-biology)](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/LICENSE.md) 
+[![GitHub Watches](https://img.shields.io/github/watchers/Rrtk2/bioinformatics-and-systems-biology.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/Rrtk2/bioinformatics-and-systems-biology/watchers)
+[![GitHub Stars](https://img.shields.io/github/stars/Rrtk2/bioinformatics-and-systems-biology.svg?style=social&label=Stars)](https://github.com/Rrtk2/bioinformatics-and-systems-biology/stargazers)
 
 ## Read this readme!
 It contains usefull information how to share, contribute and use the project. This is the folder to contribute bioinformatics related scripts and documentation to speed up progress in coding and research.
@@ -18,6 +20,8 @@ This format is yet to be defined.
 - [x] Define (raw) format to contribute scripts
 - [ ] Define (specific) format to contribute scripts
 - [ ] Define (raw) indexing method for scripts
+- [ ] Automatic badge status
+- [ ] semi-automatic script METRIC system
 
 
 #### How to get started with contributing
