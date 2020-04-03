@@ -41,7 +41,7 @@ This format is yet to be defined.
 ra.reijnders@student.maastrichtuniversity.nl
 
 #### Copyright and authors
-All code and documents in the MSB_Thesis folder was created by [these author(s)](/AUTHORS.md).
+All code and documents in the bioinformatics-and-systems-biology folder was created by [these author(s)](/AUTHORS.md).
 [Feel free to cite!](/CITATION.cff) 
 
 This program is a collection of scripts, documentation and supplementary information which involves the analysis of (multi)omics data.
