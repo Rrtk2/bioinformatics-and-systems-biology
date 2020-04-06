@@ -10,9 +10,13 @@ Scripts should at least, but not limited by, contain the following items:
 
 ## Variable names, constantss, function, settings naming
 variable = [varname]
+
 constants = c_[varname]
+
 functions = f_[varname]
+
 settings = s_[varname]
+
 
 ## Example(s)
 outdated!
