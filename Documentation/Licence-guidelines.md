@@ -1,2 +1,2 @@
-## License guidelines
+## Licence guidelines
 
