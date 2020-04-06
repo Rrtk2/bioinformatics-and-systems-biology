@@ -8,7 +8,9 @@ Scripts should at least, but not limited by, contain the following items:
 - OUTPUT - too diverse to make a standard script for this for now...
 - [REMOVE TEMP_ FILES/VARIABLES](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/Script-essentials/REMOVE%20TEMP_VARS.R) 
 
-## Variable names, constantss, function, settings naming
+## Variable names, constants, functions, settings naming
+[varname] can contain letters, numbers and "_"
+
 variable = [varname]
 
 constants = c_[varname]
