@@ -14,14 +14,12 @@ In a nutshell:
 
 ## Project structure
 #### Status of project
-This project is starting, big contributions are to be made using a defined format to increase quality and save time.
-This format is yet to be defined.
+This project is starting, big contributions are to be made.
 
-- [x] Define (raw) format to contribute scripts
-- [ ] Define (specific) format to contribute scripts
-- [ ] Define (raw) indexing method for scripts
-- [ ] Automatic badge status
-- [ ] semi-automatic script METRIC system
+
+- [ ] [Define (specific) format to contribute scripts](./Documentation/Script-format-guidelines.md)
+- [ ] [Find out licencing info](./Documentation/Licence-guidelines.md)
+
 
 
 #### How to get started with contributing
