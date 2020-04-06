@@ -1,4 +1,4 @@
-## Script formarring guidelines
+## Script formatting guidelines
 Scripts should at least, but not limited by, contain the following items:
 - [GENERAL INFORMATION](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/Script-essentials/GENERAL-INFORMATION.R) 
 - [CHECKS](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/Script-essentials/CHECKS.R) 
