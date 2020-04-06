@@ -12,7 +12,7 @@ In a nutshell:
 - Save time searching for examples on google
 - Curate scripts using the script METRICS
 
-#### Fast-travel links
+## Fast-travel links
 [Script format](./Documentation/Script-format-guidelines.md)
 
 
