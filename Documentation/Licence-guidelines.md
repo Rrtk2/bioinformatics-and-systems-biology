@@ -1,2 +1,2 @@
-## Script formarring guidelines
+## License guidelines
 
