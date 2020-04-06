@@ -12,20 +12,17 @@ In a nutshell:
 - Save time searching for examples on google
 - Curate scripts using the script METRICS
 
+## Fast-travel links
+[Script format](./Documentation/Script-format-guidelines.md)
+
+
 ## Project structure
 #### Status of project
-This project is starting, big contributions are to be made using a defined format to increase quality and save time.
-This format is yet to be defined.
+This project is starting, big contributions are to be made.
 
-- [x] Define (raw) format to contribute scripts
-- [ ] Define (specific) format to contribute scripts
-- [ ] Define (raw) indexing method for scripts
-- [ ] Automatic badge status
-- [ ] semi-automatic script METRIC system
+- [ ] [Define (specific) format to contribute scripts](./Documentation/Script-format-guidelines.md)
+- [ ] [Find out licencing info](./Documentation/Licence-guidelines.md)
 
-
-#### How to get started with contributing
-[Script format](./Script-essentials/Script-format.md)
 
 #### Repo infrastructure
  [ ![Roottree](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/Images/Flowcharts/Roottree.png)](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/Images/Flowcharts/Roottree.png)
