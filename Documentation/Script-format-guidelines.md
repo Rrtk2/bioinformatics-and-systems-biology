@@ -11,16 +11,13 @@ Scripts should at least, but not limited by, contain the following items:
 ## Variable names, constants, functions, settings naming
 [varname] can contain letters, numbers and "_"
 
-variable which should not be removed at the end of running the script = [varname]
-
-variable which can be removed at the end of running the script = temp_[varname]
-
-constants = c_[varname]
-
-(custom) functions made within script = f_[varname]
-
-settings = s_[varname]
-
+| Notation 	|   Description	|   	
+|---	|---	|
+| [varname] 	|  variable which **should not be removed** at the end of running the script 	|
+| temp_[varname] 	|  variable which **should be removed** at the end of running the script 	|
+| c_[varname] 	|   constants	|
+| f_[varname] 	|   (custom) functions made within script	|
+| s_[varname] 	|   settings	|
 
 ## Example(s)
 - [Script R](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/Script-essentials/EXAMPLE-SCRIPT-1.R) 
