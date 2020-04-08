@@ -72,6 +72,8 @@ if(!exists("iris")){stop("iris does not exist!")}
 # Define packages which should be loaded
 s_requiredpackages = c("ggfortify")
 
+# iris dataset column 5 contains species; should be indicated here
+c_irisClassColumn = 5
 
 #-----------------------------------------------------------------------------------------------------#
 # 							(INSTALL &) LOAD PACKAGES
@@ -102,7 +104,7 @@ temp_Data = iris
 #							MAIN
 #-----------------------------------------------------------------------------------------------------#
 # PCA of iris
-temp_PCAplot = autoplot(prcomp(temp_Data[,-5]),temp_Data,col="Species")
+temp_PCAplot = autoplot(prcomp(temp_Data[,-c_irisClassColumn]),temp_Data,col="Species")
 
 
 #-----------------------------------------------------------------------------------------------------#
