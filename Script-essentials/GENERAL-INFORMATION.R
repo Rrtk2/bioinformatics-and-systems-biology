@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------------------------------#
 # 							GENERAL INFORMATION
 #-----------------------------------------------------------------------------------------------------#
-#File description:
+# File description:
 #	Name
 #		Load-Methylation.R
 #
@@ -17,7 +17,7 @@
 #		Images (./Boxplot.png)
 #
 #
-#Copyright statement comment:
+# Copyright statement comment:
 #	Script which is part of the Rrtk2/bioinformatics-and-systems-biology 
 #	github repopository, script definition is described in 'Purpose' under 
 #	GENERAL INFORMATION section.
@@ -38,7 +38,7 @@
 #
 #
 #
-#Author comment:
+# Author comment:
 #	Rick Reijnders i6167500
 #	ra.reijnders@student.maastrichtuniversity.nl
 #	Rick.Reijnders@home.nl
@@ -46,7 +46,7 @@
 #	Some other (personal) comment ..
 #
 #
-#Script METRICS description:
+# Script METRICS description:
 #	"Health"
 #	The state of the code, if it can be run and to which extend; NUMERIC value 1 - 4
 #		(1) Broken
@@ -72,7 +72,7 @@
 #		[ ] OUTPUT - Export the data variables as text/images/variables (output)
 #		[ ] REMOVE TEMP_ FILES/VARIABLES - Removes unneeded objects from the workspace to run efficiently
 #
-#Script METRICS:
+# Script METRICS:
 #	Health = 3/4
 #	Status = 2/4
 #	Completion = 5/8
