@@ -17,13 +17,12 @@ variable which can be removed at the end of running the script = temp_[varname]
 
 constants = c_[varname]
 
-functions = f_[varname]
+(custom) functions made within script = f_[varname]
 
 settings = s_[varname]
 
 
 ## Example(s)
-outdated!
 - [Script R](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/Script-essentials/EXAMPLE-SCRIPT-1.R) 
 
 
