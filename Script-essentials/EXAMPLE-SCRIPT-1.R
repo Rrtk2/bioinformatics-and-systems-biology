@@ -16,14 +16,30 @@
 #
 #
 # 	Copyright statement comment:
-#   	Using licence displayed in top ROOT folder.
+#  	 	Script which is part of the Rrtk2/bioinformatics-and-systems-biology 
+#		github repopository, script definition is described in 'Purpose' under 
+#		GENERAL INFORMATION section.
+#		Copyright (C) 2020  Rick Reijnders
+#
+#	    	This program is free software: you can redistribute it and/or modify
+#	    	it under the terms of the GNU General Public License as published by
+#	    	the Free Software Foundation, either version 3 of the License, or
+#	    	(at your option) any later version.
+#
+#	    	This program is distributed in the hope that it will be useful,
+#	    	but WITHOUT ANY WARRANTY; without even the implied warranty of
+#	    	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#	    	GNU General Public License for more details.
+#
+#	    	You should have received a copy of the GNU General Public License
+#	    	along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #
 #
 # 	Author comment:
 #  		Rick Reijnders i6167500
-#   	ra.reijnders@student.maastrichtuniversity.nl
+#   		ra.reijnders@student.maastrichtuniversity.nl
 #		Rick.Reijnders@home.nl
-#		This code is made to be an example for the general formattion guide
+#		This code is made to be an example for the general formatting guide
 #
 #
 #	Script METRICS description:
