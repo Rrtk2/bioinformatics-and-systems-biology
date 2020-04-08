@@ -11,7 +11,9 @@ Scripts should at least, but not limited by, contain the following items:
 ## Variable names, constants, functions, settings naming
 [varname] can contain letters, numbers and "_"
 
-variable = [varname]
+variable which should not be removed at the end of running the script = [varname]
+
+variable which can be removed at the end of running the script = temp_[varname]
 
 constants = c_[varname]
 
