@@ -1,8 +1,7 @@
 # Bioinformatics-and-Systems-Biology (BSB)
-![](https://img.shields.io/badge/Status-Setting_up-red?style=flat-square)
+![](https://img.shields.io/badge/status-Setting_up-red?style=flat-square)
 [![GitHub License](https://img.shields.io/github/license/Rrtk2/bioinformatics-and-systems-biology)](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/LICENSE.md) 
-[![GitHub Watches](https://img.shields.io/github/watchers/Rrtk2/bioinformatics-and-systems-biology.svg?style=social&label=Watch)](https://github.com/Rrtk2/bioinformatics-and-systems-biology/watchers)
-[![GitHub Stars](https://img.shields.io/github/stars/Rrtk2/bioinformatics-and-systems-biology.svg?style=social&label=Stars)](https://github.com/Rrtk2/bioinformatics-and-systems-biology/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/Rrtk2/bioinformatics-and-systems-biology)](https://github.com/Rrtk2/bioinformatics-and-systems-biology/blob/master/CONTRIBUTING.md) 
 
 ## Read this readme!
 It contains usefull information how to share, contribute and use the project. This is the folder to contribute bioinformatics related scripts and documentation to speed up progress in coding and research.
